@@ -24,7 +24,7 @@ using std::vector;
 
 int main()
 {
-	cout << "start" << endl;
+	cout << "programe has started ... " << endl;
 	vector<Student_info> students;
 	Student_info record;
 	string::size_type maxlen = 0;       // the length of the longest name
